@@ -1,4 +1,5 @@
- # Lógica de Programação
+![977d1b41-5888-44d7-8e4c-57d2348748dc](https://github.com/user-attachments/assets/0ffd4022-8ea1-46aa-8cd7-ef81412ca0b3) 
+# Lógica de Programação
 
  A lógica de programação é a base para o desenvolvimento de qualquer software. Ela envolve a criação de algoritmos, 
  que são sequências de passos lógicos para resolver problemas ou realizar tarefas específicas. Aqui estão alguns conceitos básicos:
