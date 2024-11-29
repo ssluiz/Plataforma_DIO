@@ -133,3 +133,13 @@ let selecionavel = false
 | Variáveis de data e hora | Utilizadas para representar datas e horários. |
 | Data | Armazena datas, no formato AAAA-MM-DD. |
 | Hora | Armazena horários, no formato HH:MM:SS. |
+
+## Vetores e matrizes
+
+### O que vamos aprender ?
+
+---
+
+- [ ]  O que vetores
+- [ ]  Quando utilizar
+- [ ]  O que Matrizes
