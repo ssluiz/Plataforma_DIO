@@ -1,6 +1,6 @@
 # Mapa de aventura
 
-</>
+## </>
 
 # Algoritmos
 
@@ -143,3 +143,16 @@ let selecionavel = false
 - [ ]  O que vetores
 - [ ]  Quando utilizar
 - [ ]  O que Matrizes
+
+![Untitled](https://github.com/user-attachments/assets/f91513c3-35ce-4178-8bba-a54757b5a4ab)
+
+let nomesPokemon = ["Pikachu" , "Chamander", "Bulbassaur"]
+let timePokemon = [
+  ["pikachu", "M", 1],
+  ["Chamander", "F", 3]
+]
+
+
+---
+console.log(" O pokemon " + timePokemon[1][0] + " é do sexo " +  timePokemon[1][1] + 
+" e está no nível " + timePokemon[1][2] )
