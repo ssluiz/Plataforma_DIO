@@ -1,3 +1,5 @@
+![0cb208b8-6bf4-454b-9b12-9e9418ad0356](https://github.com/user-attachments/assets/df0c009a-bd91-4cb0-a484-56a8298647a8)
+
 ### **Detalhes do bootcamp**
 
 Quem não entende de IA já ficou no passado!
